@@ -20,4 +20,4 @@ Here is a list of our **Service DSAS by INJECT**:
 
 </center>
 
-**\>\_**WE are glad to welcome everyone who wants to join our community, who want to share something interesting and new. and just those who would like to test our service and become part of our small team, we are always happy to welcome you [CONTACT](https://t.me/DevSecAS)
+**\>\_**WE are glad to welcome everyone who wants to join our community, who want to share something interesting and new. and just those who would like to test our service and become part of our small team, we are always happy to welcome you [CONTACT](https://t.me/Evi1Grey5)
