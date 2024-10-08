@@ -7,7 +7,7 @@ We provide an isolated environment with EDRs for testing your SOFTWARE / CFS - A
 ![Static Badge](https://img.shields.io/badge/tox%20-%20340EF1DCEEC5B395B9B45963F945C00238ADDEAC87C117F64F46206911474C61981D96420B72?style=flat-square&label=340EF1DCEEC5B395B9B45963F945C00238ADDEAC87C117F64F46206911474C61981D96420B72)
 ![Static Badge](https://img.shields.io/badge/injectexp.dev-WebSite)
 ![Static Badge](https://img.shields.io/badge/https://t.me/INJECTCRYPT-WebSite)
-![Static Badge](https://img.shields.io/badge/x.com/DevSecAS-Twitter)
+![Static Badge](https://img.shields.io/badge/x.com/Evi1Grey5-Twitter)
 
 <br>
 
