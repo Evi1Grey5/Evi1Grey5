@@ -9,6 +9,12 @@ We provide an isolated environment with EDRs for testing your SOFTWARE / CFS - A
 ![Static Badge](https://img.shields.io/badge/https://t.me/INJECTCRYPT-WebSite)
 ![Static Badge](https://img.shields.io/badge/x.com/Evi1Grey5-Twitter)
 
+#### Training Map for 24/25 Years
+
+![Screenshot_1](https://github.com/user-attachments/assets/71b0cfad-5dbd-4615-a185-199f9b93c32b)
+
+
+
 <br>
 
 Here is a list of our **Service DSAS by INJECT**:
