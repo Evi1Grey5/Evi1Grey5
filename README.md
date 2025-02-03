@@ -9,9 +9,10 @@ We provide an isolated environment with EDRs for testing your SOFTWARE / CFS - A
 ![Static Badge](https://img.shields.io/badge/https://t.me/INJECTCRYPT-WebSite)
 ![Static Badge](https://img.shields.io/badge/x.com/Evi1Grey5-Twitter)
 
-#### Training Map for 24/25 Years
+</center>
 
-![Screenshot_1](https://github.com/user-attachments/assets/71b0cfad-5dbd-4615-a185-199f9b93c32b)
+#### [CFS - CRYPT FILE SERVICE / EDR Test Environment](https://t.me/injectcrypt)
+![llo](https://github.com/user-attachments/assets/48e5909d-9ad5-4314-a67b-68ac739308e6)
 
 
 
